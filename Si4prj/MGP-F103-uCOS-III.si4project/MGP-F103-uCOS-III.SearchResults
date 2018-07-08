@@ -1,0 +1,2 @@
+---- SPI_Flash_PowerDown Matches (1 in 0 files) ----
+bsp_flash.c (F:\My Graduation Project\MGP\MGP-u0.6(Core)\User\BSP\FLASH) line 313 : void SPI_Flash_PowerDown(void)   
